@@ -1,0 +1,19 @@
+{
+  "name": "bucketlimited_react-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/danielbucket/BucketLimited_react-express.git"
+  },
+  "author": "Bucket Limited",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielbucket/BucketLimited_react-express/issues"
+  },
+  "homepage": "https://github.com/danielbucket/BucketLimited_react-express#readme"
+}
