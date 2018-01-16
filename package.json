@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "nodemon server/server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/danielbucket/BucketLimited_react-express/issues"
   },
-  "homepage": "https://github.com/danielbucket/BucketLimited_react-express#readme"
+  "homepage": "https://github.com/danielbucket/BucketLimited_react-express#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "knex": "^0.14.2",
+    "nodemon": "^1.14.11",
+    "pg": "^7.4.1"
+  }
 }
